@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "label":"Tesla(P",
+        "description":"AC/DC",
+        "power":"Max. power",
+        "voltage":"100 kW"
+    },
+    {
+        "id":2,
+        "label":"Mennekes",
+        "description":"AC",
+        "power":"Max. power",
+        "voltage":"50 kW"
+    },
+    {
+        "id":3,
+        "label":"CHAdeMO",
+        "description":"DC",
+        "power":"Max. power",
+        "voltage":"100 kW"
+    },
+    {
+        "id":4,
+        "label":"CCS1",
+        "description":"DC",
+        "power":"Max. power",
+        "voltage":"50 kW"
+    },
+    {
+        "id":5,
+        "label":"CCS2",
+        "description":"DC",
+        "power":"Max. power",
+        "voltage":"100 kW"
+    },
+    {
+        "id":6,
+        "label":"Tesla(P",
+        "description":"AC/DC",
+        "power":"Max. power",
+        "voltage":"100 kW"
+    },
+    {
+        "id":7,
+        "label":"Tesla(P",
+        "description":"AC/DC",
+        "power":"Max. power",
+        "voltage":"100 kW"
+    },
+    {
+        "id":8,
+        "label":"Tesla(P",
+        "description":"AC/DC",
+        "power":"Max. power",
+        "voltage":"100 kW"
+    }
+    
+
+]

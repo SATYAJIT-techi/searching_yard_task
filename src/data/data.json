@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name":"Tesla",
+        "img":"car_img.png",
+        "description1":"Model S",
+        "description2":"40"
+    },
+    {
+        "id": 2,
+        "name":"Audi",
+        "img":"car_img.png",
+        "description1":"e - tron",
+        "description2":"Prestige"
+    },
+    {
+        "id": 3,
+        "name":"Porsche",
+        "img":"car_img.png",
+        "description1":"Taycan",
+        "description2":"Turbo S"
+    },
+    {
+        "id": 4,
+        "name":"Ford",
+        "img":"car_img.png",
+        "description1":"Mustang Mach-E",
+        "description2":"GT"
+    },
+    {
+        "id": 5,
+        "name":"Volkswagen",
+        "img":"car_img.png",
+        "description1":"ID 4",
+        "description2":"1st Edition"
+    },
+    {
+        "id": 6,
+        "name":"Kia",
+        "img":"car_img.png",
+        "description1":"Niro EV",
+        "description2":"EX Premium"
+    },
+    {
+        "id": 7,
+        "name":"Kia",
+        "img":"car_img.png",
+        "description1":"Niro EV",
+        "description2":"EX Premium"
+    },
+    {
+        "id": 8,
+        "name":"Kia",
+        "img":"car_img.png",
+        "description1":"Niro EV",
+        "description2":"EX Premium"
+    }
+]
